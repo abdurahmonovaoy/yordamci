@@ -1,0 +1,9 @@
+AD1565183;Lazokat;Abdugafurova;Tashhis;Manzil;18;971780973
+AD1845127;Oydinoy;Abdurahmonova;Kasal;Yunusobod;18;971780973
+AD1565183;Oydinoy;Abdugafurova;Tashhis;Manzil;18;971780973
+AD4565368;Sardor;Mirzakomilov;Ruhi kasal;Olmalig';22;974562811
+AD4565368;Oydinoy;Abdurahmonova;Kasal;Andijon;20;974562811
+AD4565368;Oydinoy;Abdurahmonova;Kasal;Andijon;20;974562811
+AD4565368;Oydinoy;Abdurahmonova;Kasal;Andijon;20;974562811
+AD4565368;Oydinoy;Abdurahmonova;Kasal;Andijon;20;974562811
+AD4565368;Oydinoy;Abdurahmonova;Kasal;Andijon;20;974562811
